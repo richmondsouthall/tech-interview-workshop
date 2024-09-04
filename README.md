@@ -23,9 +23,10 @@ Below are the instructions for this assignment. Your repository should automatic
 ### 📝 TODO: Complete this section
 
 * **Your name and PID**:
-
+Richmond Southall, richmonds
 * **Your partner's name and PID:**
-
+Jett Morrow, jettmorrow
 * **Link to selected coding challenge:**
-
+https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75
 * **Summary of partner's interview feedback:**
+He said that even though there are more than one way to do the same thing sometimes, instead of trying to explain the different ways, jsut stick to one and stay confident in the interview.
